@@ -232,7 +232,7 @@ function create_config( )
     "antilink",
     "admin"
     },
-    sudo_users = {141941906,70183262},--Sudo users
+    sudo_users = {173273482,214877832,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     help_text_realm = [[
